@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AOC25Day04PrintingDept\Day04.csproj" />
+    <ProjectReference Include="..\Day04\Day04.csproj" />
   </ItemGroup>
 
   <ItemGroup>
