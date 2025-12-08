@@ -1,6 +1,6 @@
 ﻿using Day05;
 
-namespace AOC25Day05Tests
+namespace Day05Tests
 {
     public class IngredientIdRangeTests
     {

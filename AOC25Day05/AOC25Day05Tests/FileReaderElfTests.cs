@@ -1,7 +1,7 @@
 ﻿using Day05;
 using System.Numerics;
 
-namespace AOC25Day05Tests
+namespace Day05Tests
 {
     public class FileReaderElfTests
     {

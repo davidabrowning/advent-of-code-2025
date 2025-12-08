@@ -1,6 +1,6 @@
 ﻿using Day07;
 
-namespace AOC25Day07Tests
+namespace Day07Tests
 {
     public class ManifoldTests
     {

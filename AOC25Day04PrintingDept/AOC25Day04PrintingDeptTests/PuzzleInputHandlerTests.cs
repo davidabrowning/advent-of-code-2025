@@ -1,11 +1,6 @@
 ﻿using Day04;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace AOC25Day04PrintingDeptTests
+namespace Day04Tests
 {
     public class PuzzleInputHandlerTests
     {

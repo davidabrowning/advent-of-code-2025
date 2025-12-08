@@ -1,6 +1,6 @@
 ﻿using Day04;
 
-namespace AOC25Day04PrintingDeptTests
+namespace Day04Tests
 {
     public class RollRemoverTests
     {
