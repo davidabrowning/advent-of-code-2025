@@ -8,14 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\AOC25Day04PrintingDept\AOC25Day04PrintingDept\Day04.csproj" />
-    <ProjectReference Include="..\..\AOC25Day05\AOC25Day05\Day05.csproj" />
-    <ProjectReference Include="..\..\AOC25Day06\AOC25Day06\Day06.csproj" />
-    <ProjectReference Include="..\..\AOC25Day07\AOC25Day07\Day07.csproj" />
-    <ProjectReference Include="..\AOC25Day04PrintingDept\AOC25Day04PrintingDept\Day04.csproj" />
-    <ProjectReference Include="..\AOC25Day05\AOC25Day05\Day05.csproj" />
-    <ProjectReference Include="..\AOC25Day06\AOC25Day06\Day06.csproj" />
-    <ProjectReference Include="..\AOC25Day07\AOC25Day07\Day07.csproj" />
     <ProjectReference Include="..\Day04\Day04\Day04.csproj" />
     <ProjectReference Include="..\Day05\Day05\Day05.csproj" />
     <ProjectReference Include="..\Day06\Day06\Day06.csproj" />
