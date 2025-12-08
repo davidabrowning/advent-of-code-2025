@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOC25Day04PrintingDept", "AOC25Day04PrintingDept\AOC25Day04PrintingDept.csproj", "{8CBE8B28-49E5-4AEC-B778-BAEA15A7B482}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOC25Day04PrintingDeptTests", "AOC25Day04PrintingDeptTests\AOC25Day04PrintingDeptTests.csproj", "{64402EB1-6819-4513-AA4D-A9EAB5AAA697}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CBE8B28-49E5-4AEC-B778-BAEA15A7B482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CBE8B28-49E5-4AEC-B778-BAEA15A7B482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CBE8B28-49E5-4AEC-B778-BAEA15A7B482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CBE8B28-49E5-4AEC-B778-BAEA15A7B482}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64402EB1-6819-4513-AA4D-A9EAB5AAA697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64402EB1-6819-4513-AA4D-A9EAB5AAA697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64402EB1-6819-4513-AA4D-A9EAB5AAA697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64402EB1-6819-4513-AA4D-A9EAB5AAA697}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {480EC002-1C6A-44EB-B286-AE43C3AB5EAB}
+	EndGlobalSection
+EndGlobal
