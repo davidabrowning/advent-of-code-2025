@@ -3,6 +3,7 @@ using Day05;
 using Day06;
 using Day07;
 using Day08;
+using Day09;
 
 namespace AdventOfCode2025
 {
@@ -35,6 +36,7 @@ namespace AdventOfCode2025
                     case "6": Day06Runner.Run(); break;
                     case "7": Day07Runner.Run(); break;
                     case "8": Day08Runner.Run(); break;
+                    case "9": Day09Runner.Run(); break;
                     case "q":
                     case "Q": userWantsToContinue = false; break;
                     default:
