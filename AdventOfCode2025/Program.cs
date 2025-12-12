@@ -1,4 +1,5 @@
 ﻿using Day01;
+using Day02;
 using Day04;
 using Day05;
 using Day06;
@@ -33,6 +34,7 @@ namespace AdventOfCode2025
                 switch (userInput)
                 {
                     case "1": Day01Runner.Run(); break;
+                    case "2": Day02Runner.Run(); break;
                     case "4": Day04Runner.Run(); break;
                     case "5": Day05Runner.Run(); break;
                     case "6": Day06Runner.Run(); break;
